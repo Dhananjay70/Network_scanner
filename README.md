@@ -7,7 +7,7 @@ This is a Bash script that allows you to check if an IP address is live and perf
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Dhananjay70/Network_scanner.git
     ```
 
 2. Navigate to the cloned directory:
